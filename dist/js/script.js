@@ -1,3 +1,7 @@
+// Navbar fixed
+
+
+
 // hamburger
 
 const hamburger = document.querySelector("#hamburger");
